@@ -16,7 +16,7 @@ paginate = 20
 [Author]
     name = "elmetal"
     bio = "iOS app developer"
-    avatar = "img/avatar.png"
+    avatar = "img/iconv2.jpg"
 
 [Params]
     customCSS = ["css/custom.css"]
