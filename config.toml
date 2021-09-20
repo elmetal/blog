@@ -15,7 +15,7 @@ paginate = 20
 # 自己紹介
 [Author]
     name = "elmetal"
-    bio = "elmetal's bio"
+    bio = "iOS app developer"
     avatar = "img/avatar.png"
 
 [Params]
@@ -28,7 +28,7 @@ paginate = 20
 
 # ページのテーマカラー
 [Params.style.vars]
-  highlightColor = "#e22d30"
+  highlightColor = "#6a5acd"
 
 # SNS等のユーザー名
 [Params.widgets.social]
